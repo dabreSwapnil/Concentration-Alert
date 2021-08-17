@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63f26cbd-33f4-4117-9cb4-3a08fab5de7b" name="Default Changelist" comment="Concentration Alert App" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lkSM84OReqaMhg0zrEfQVsRTls" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="AA7DMFN7UWIRVWMN" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-30T09:52:11.928Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/home/swap/AndroidStudioProjects/Attention App/Drowsy-Alert/app/src/main/java/com/dragosholban/androidfacedetection/CameraPreview.java_SELECTED" value="CameraPreview" />
+    <property name="android-custom-view/home/swap/AndroidStudioProjects/Attention App/Drowsy-Alert/app/src/main/java/com/dragosholban/androidfacedetection/GraphicOverlay.java_SELECTED" value="GraphicOverlay" />
+    <property name="android-custom-viewC:/Users/archis gune/StudioProjects/Android-Drowsiness-Detection/app/src/main/java/com/dragosholban/androidfacedetection/CameraPreview.java_SELECTED" value="CameraPreview" />
+    <property name="android-custom-viewC:/Users/archis gune/StudioProjects/Android-Drowsiness-Detection/app/src/main/java/com/dragosholban/androidfacedetection/GraphicOverlay.java_SELECTED" value="GraphicOverlay" />
+    <property name="android-custom-viewD:/Android Apps/Drowsy-Alert/app/src/main/java/com/dragosholban/androidfacedetection/GraphicOverlay.java_SELECTED" value="GraphicOverlay" />
+    <property name="android-custom-viewD:/Android-Drowsiness-Detection/app/src/main/java/com/dragosholban/androidfacedetection/GraphicOverlay.java_SELECTED" value="GraphicOverlay" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-preview/home/swap/AndroidStudioProjects/Attention App/Drowsy-Alert/app/src/main/java/com/dragosholban/androidfacedetection/CameraPreview.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/home/swap/AndroidStudioProjects/Attention App/Drowsy-Alert/app/src/main/java/com/dragosholban/androidfacedetection/GraphicOverlay.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/archis gune/StudioProjects/Android-Drowsiness-Detection/app/src/main/java/com/dragosholban/androidfacedetection/CameraPreview.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/archis gune/StudioProjects/Android-Drowsiness-Detection/app/src/main/java/com/dragosholban/androidfacedetection/GraphicOverlay.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/Android Apps/Drowsy-Alert/app/src/main/java/com/dragosholban/androidfacedetection/GraphicOverlay.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/Android-Drowsiness-Detection/app/src/main/java/com/dragosholban/androidfacedetection/GraphicOverlay.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recommended.upgrade.last.time.stamp" value="1608223198106" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.523779781">
+      <recent name="com.dragosholban.androidfacedetection" />
+    </key>
+    <key name="android.template.-412188158">
+      <recent name="com.dragosholban.androidfacedetection" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Android-Drowsiness-Detection\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Attention App" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Drowsy-Alert.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="true" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="do_nothing" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63f26cbd-33f4-4117-9cb4-3a08fab5de7b" name="Default Changelist" comment="" />
+      <created>1608139544913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608139544913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Concentration Alert App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concentration Alert App" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="36" width="979" height="1033" key="CommitChangelistDialog2" timestamp="1629179393069">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="499" y="36" width="979" height="1033" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1629179393069" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1629179093883">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1629179093883" />
+    <state x="320" y="384" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1629181063208">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="320" y="384" width="800" height="535" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1629181063208" />
+    <state x="763" y="465" width="451" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629179796499">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="763" y="465" width="451" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1629179796499" />
+  </component>
+</project>
